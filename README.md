@@ -1,1 +1,8 @@
-Description
+ - vite
+ - husky
+ - typescript
+ - babel
+ - eslint
+ - prettier
+ - postcss
+ - sass
